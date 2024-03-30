@@ -1,6 +1,6 @@
 from CryptoMathTrade.exchange.bingx import Spot
 from CryptoMathTrade.exchange.bingx import Account
-from CryptoMathTrade.types import OrderBook, Side
+from CryptoMathTrade.types import Side
 
 from settings import API, SYMBOL
 
